@@ -1,0 +1,18 @@
+.rounded-xs{
+   border-radius: .2rem;
+}
+.rounded-ss{
+   border-radius: .5rem;
+}
+.rounded-sm{
+   border-radius: .8rem;
+}
+.rounded-md{
+   border-radius: 1.5rem;
+}
+.rounded-full{
+   border-radius: 50%;
+}
+.b-collapse{
+   border-collapse: collapse;
+}

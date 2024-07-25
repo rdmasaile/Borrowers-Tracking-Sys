@@ -1,0 +1,155 @@
+01/12/2022	22:43:93	0871a165-155a-4b10-b1fe-4ac1c7e154cb	Error : connect ECONNREFUSED ::1:3306
+01/12/2022	22:46:44	b6d9e6eb-54a7-4d1f-893c-3bbcb4a9f5cb	Error : connect ECONNREFUSED ::1:3306
+01/12/2022	22:49:93	ea54c990-dcc6-4d35-ae4a-03861ded4251	TypeError : undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+01/12/2022	22:50:54	12d5844a-2b85-4605-bdb0-93c7bc29f6cc	TypeError : undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+01/12/2022	22:51:78	974ff8ab-8f11-4e78-9beb-6e437e933003	TypeError : db.execute is not a function or its return value is not iterable
+01/12/2022	22:52:87	062ffcb2-2200-4115-852c-d625a5607589	TypeError : object is not iterable (cannot read property Symbol(Symbol.iterator))
+01/12/2022	22:53:00	1a93fc1d-9081-4c52-962e-47cfbac258b1	TypeError : Converting circular structure to JSON
+    --> starting at object with constructor 'Query'
+    |     property '_timer' -> object with constructor 'Timer'
+    --- property '_object' closes the circle
+02/12/2022	03:12:03	1060a786-8413-4819-8619-fe25e575fc2d	Error : Cannot set headers after they are sent to the client
+02/12/2022	03:15:59	c0bf2b39-904a-4db0-b8ee-e651126553cc	Error : Cannot set headers after they are sent to the client
+02/12/2022	03:18:60	76037cae-6c67-4147-a437-5e9356c80bc1	ReferenceError : error is not defined
+02/12/2022	03:18:30	047a9ab6-5d04-40b8-a61b-e676577c66a6	Error : [object Object]
+02/12/2022	03:26:25	0fc86fcb-6744-416c-b6c3-46e69bcdbd37	Error : Cannot set headers after they are sent to the client
+02/12/2022	03:29:62	6ea96545-7685-45f1-9fc4-a7c275ab9907	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '" or "1" = "1' at line 1
+02/12/2022	03:30:14	b93c7851-6b56-4bf1-96b4-c732eb7bd714	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or '1' = '1' at line 1
+02/12/2022	03:32:78	27118c5e-19cf-4b9b-b4b8-e496cfded845	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or '1' = '1' at line 1
+02/12/2022	03:33:56	5d81b68a-ec49-4aca-9723-5d356fb5dfec	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or 1 = '1' at line 1
+02/12/2022	03:33:38	0ce4b2b6-74da-4387-8ba2-9d785dff9938	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or 1 = 1' at line 1
+02/12/2022	03:34:49	bb29cc48-840d-4933-81bf-16e3a63ffae4	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or 1 = 1'' at line 1
+02/12/2022	03:37:25	a9da9beb-289e-40eb-9312-7d65c8c9d109	Error : Unknown column 'NaN' in 'where clause'
+02/12/2022	03:40:68	ee3b5dae-5537-4e5a-b9db-8a2ee31527d0	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or 1 = 1 '' at line 1
+02/12/2022	03:42:29	efc5188b-7410-4965-a2dc-3aecd12789e1	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' or 1 = 1 '' at line 1
+02/12/2022	03:45:60	a43bc437-bae6-4082-949a-f281e387c692	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'oi"' at line 1
+02/12/2022	03:45:62	68e9824d-4bc0-410a-86fa-9c08ef7cca0e	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'oi' at line 1
+02/12/2022	03:46:66	cfb5ba30-a5aa-4cce-b8f6-5f92bf35f5dd	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"6' at line 1
+02/12/2022	03:46:01	5c1dcbbe-3441-4de4-ac98-864f5de653df	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"6' at line 1
+02/12/2022	03:47:01	9855af94-c442-403e-8b57-0e61e8b57e96	Error : Unknown column '6i' in 'where clause'
+02/12/2022	03:48:18	17405b23-883e-45ca-bff0-1e2db95dc796	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'x' at line 1
+02/12/2022	03:49:21	4adaab6d-bc0d-4bdb-b7f9-f2c82611ba06	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'x' at line 1
+03/12/2022	19:50:70	953cf2fe-8e78-48ce-bc5f-31be767d49ae	SyntaxError : Unexpected token f in JSON at position 4
+04/12/2022	09:25:57	a5bf689e-d2ef-4a9e-9ad3-4ba2319fef1b	SyntaxError : Unexpected string in JSON at position 77
+04/12/2022	12:09:63	4ea1e6e7-c75e-46f3-b27a-475d832b974b	Error : Cannot set headers after they are sent to the client
+04/12/2022	16:55:32	b6b4139d-ab1a-4524-92a1-10656ce1977a	Error : Table 'expensetracker.undefined' doesn't exist
+04/12/2022	17:01:19	596153e9-757c-4d53-9226-abe3a9de45a5	Error : Table 'expensetracker.undefined' doesn't exist
+04/12/2022	17:06:26	065c8686-0d14-4881-80ef-b0ca01d898e6	TypeError : User.findById is not a function
+04/12/2022	17:06:52	33b7d652-45fd-460b-9770-1a16d977d259	Error : Table 'expensetracker.undefined' doesn't exist
+04/12/2022	17:07:20	3dd6c348-682e-43a3-bb39-568f3a0b82fc	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''undefined' where id = 1' at line 1
+04/12/2022	17:08:43	e168d722-e2cc-4cbf-88cf-9f055d377ef3	Error : Table 'expensetracker.undefined' doesn't exist
+04/12/2022	17:11:01	cdfe2562-f54e-4216-adcc-e165fddcfdd4	Error : Table 'expensetracker.undefined' doesn't exist
+04/12/2022	17:11:25	a994d2d1-cc00-42a1-998b-4890c1c10526	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where id = 1' at line 1
+04/12/2022	17:12:07	c2eb08dd-9990-4252-9ef9-4c3cd325cd78	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' where id = 1' at line 1
+04/12/2022	17:12:33	4695d5dc-49ac-4a8d-90a1-3287cb740a88	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where id = '1'' at line 1
+04/12/2022	17:13:05	9ccd8747-c97f-4ff6-ad22-16abb3d4f0c5	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where id = '1'' at line 1
+04/12/2022	17:31:22	81a918e0-48d2-402c-befb-933f6ad90ba9	ReferenceError : User is not defined
+04/12/2022	17:40:03	e9587344-e171-4e39-b818-fe0fba44c82e	TypeError : users.forEach is not a function
+04/12/2022	17:41:88	e1bb8854-3603-41c6-b3a1-2feb8e6a85ad	TypeError : users.forEach is not a function
+04/12/2022	17:44:20	9c6ee91e-647f-4083-818f-549a8dc9d81e	TypeError : object is not iterable (cannot read property Symbol(Symbol.iterator))
+04/12/2022	19:14:06	0f220741-5fab-4258-8b78-dd3cacf31e57	ReferenceError : columns is not defined
+04/12/2022	19:15:64	a9e2d866-ce5d-4a45-9ee5-daab6b991a59	ReferenceError : columns is not defined
+04/12/2022	19:32:65	6cc74d71-499b-4235-94c7-1233b78c4d39	TypeError : object is not iterable (cannot read property Symbol(Symbol.iterator))
+04/12/2022	19:36:21	9ff82c5c-42c4-4fb9-9f4e-4c56c3e3d7a5	ReferenceError : Cannot access 'user' before initialization
+04/12/2022	19:38:47	2f73cf68-a24c-40c3-ba9b-ff1845b79da7	ReferenceError : Cannot access 'user' before initialization
+04/12/2022	19:40:83	b68fbfca-3a0b-4221-bcaf-802cb65cea40	ReferenceError : Cannot access 'user' before initialization
+04/12/2022	19:41:70	e06cb36b-3c7c-45c4-b422-7d237ebc792e	ReferenceError : Cannot access 'user' before initialization
+05/12/2022	00:46:67	4f64dba3-654a-42da-87e4-ab77f5028e4b	ReferenceError : Cannot access 'user' before initialization
+07/12/2022	23:53:12	11319a5c-d666-493f-b0c1-0852e3edbce6	Error : connect ECONNREFUSED ::1:3306
+08/12/2022	00:05:47	619c3e75-3acd-421e-a06b-b9259e8529be	Error : connect ECONNREFUSED ::1:3306
+08/12/2022	00:05:98	ad13a953-5076-436c-8b7a-3bf98023a122	Error : connect ECONNREFUSED ::1:3306
+08/12/2022	00:05:46	9cf0da3f-1071-421d-9114-516eae1bc741	Error : connect ECONNREFUSED ::1:3306
+08/12/2022	00:06:42	3cf7aa0f-892c-4ee8-943e-3bbb15702d27	Error : getaddrinfo ENOTFOUND localhost:33061
+08/12/2022	00:06:38	ddb80987-b4a5-44f4-a609-456a8345cdd8	Error : getaddrinfo ENOTFOUND localhost:33061
+08/12/2022	22:07:13	659810e7-ee7e-4270-aeb8-083851c994d5	Error : getaddrinfo ENOTFOUND 127.0.0.1:33061
+08/12/2022	22:07:92	31a9df2c-e0a7-434d-b02c-a3acafdf77ba	Error : getaddrinfo ENOTFOUND 127.0.0.1:33061
+08/12/2022	22:07:09	4e63e6db-a7d2-459d-92dc-300cae77ec26	Error : getaddrinfo ENOTFOUND 127.0.0.1:33061
+08/12/2022	22:07:13	849a6977-35d8-4b37-8095-cd7e81680a02	Error : getaddrinfo ENOTFOUND 127.0.0.1:33061
+08/12/2022	22:07:04	1e161fa8-1905-4c89-ae95-48bbd399b040	Error : connect ECONNREFUSED 127.0.0.1:3306
+09/12/2022	19:27:21	b0b6ec6c-c08d-4939-9057-72900a00a7ed	Error : connect ECONNREFUSED 127.0.0.1:3306
+09/12/2022	20:42:74	0a634302-545b-40e2-9e57-4ebcc667bfff	SyntaxError : Unexpected token } in JSON at position 88
+09/12/2022	22:17:84	a1093beb-00c1-4b08-976a-8b00667f49b9	Error : User with id : 50 Not found
+11/12/2022	07:19:51	c58a3d2e-e597-4019-8639-73bfdd9a8f21	SyntaxError : Unexpected token o in JSON at position 16
+11/12/2022	07:20:86	01f2e7b1-2819-456a-833f-f2bceb18def5	SyntaxError : Unexpected string in JSON at position 15
+11/12/2022	07:21:86	0eb952b5-41f8-42de-831a-2de592b32eb7	SyntaxError : Unexpected token o in JSON at position 18
+11/12/2022	07:21:96	7966bafd-c062-4a7c-969c-3586d03010c4	SyntaxError : Unexpected number in JSON at position 21
+11/12/2022	08:03:58	ce27074e-00ab-4dda-9273-3d6165418a84	SyntaxError : Unexpected token - in JSON at position 0
+11/12/2022	08:05:31	7150f52e-e91e-4e24-9f95-dff5c37f97e4	SyntaxError : Unexpected token i in JSON at position 0
+04/02/2023	17:16:51	fd8eb894-3e48-4601-b647-3a64b16164e9	Error : Not allowed by CORS
+04/02/2023	17:16:03	1470f7a5-fecb-48e4-9363-ace21eeaa811	Error : Not allowed by CORS
+04/02/2023	17:18:19	71bf117d-ec43-471a-8edd-15d87ac174ab	Error : Not allowed by CORS
+04/02/2023	17:23:77	58fbed78-5dfc-4948-b114-ff1a2c9cab66	Error : Not allowed by CORS
+04/02/2023	17:24:47	d79770e1-b187-4313-a9f2-159a5fe03764	Error : Not allowed by CORS
+04/02/2023	17:46:12	af4cac92-7d20-49a8-8836-a147a9149475	Error : Not allowed by CORS
+04/02/2023	17:47:12	32528664-b823-4a10-aa99-fe8f06b2f89f	Error : Not allowed by CORS
+04/02/2023	17:47:01	480aee37-1e4d-4e54-8f20-2a680bf02e77	Error : Not allowed by CORS
+04/02/2023	17:47:70	386c257f-aed9-49ad-a7bb-fb9fb4d18330	Error : Not allowed by CORS
+04/02/2023	17:47:73	a9cb163f-ffbe-48b5-9cee-b26c0db56759	Error : Not allowed by CORS
+04/02/2023	19:21:24	7dee1c91-02a4-44dd-87ac-b2c0a6cdddc0	Error : Not allowed by CORS
+07/02/2023	22:01:91	56e580c9-8850-4a34-a255-6c2dde86be48	TypeError : Cannot read properties of undefined (reading 'split')
+07/02/2023	22:05:29	a4a1d171-2a60-4780-b090-22c9d1487db6	TypeError : Cannot read properties of undefined (reading 'split')
+07/02/2023	22:05:31	7fccf880-2ee1-4761-8f34-640c22a63158	TypeError : Cannot read properties of undefined (reading 'split')
+07/02/2023	22:06:61	19527fd8-07d0-4756-ab2a-f462f0b9b8f4	TypeError : Cannot read properties of undefined (reading 'split')
+07/02/2023	22:12:71	92147565-bda8-408f-bdca-11096f9b89ef	SyntaxError : Unexpected token } in JSON at position 104
+08/02/2023	22:20:84	9c6cbe13-6077-40a3-b94e-396b6565571f	TypeError : Cannot read properties of undefined (reading 'id')
+08/02/2023	22:20:11	b2b9c498-d2c2-4da9-a2f3-1143108c5214	TypeError : Cannot read properties of undefined (reading 'id')
+08/02/2023	22:34:21	56f98aed-3b89-4929-a958-04fcded822c4	TypeError : Cannot read properties of undefined (reading 'split')
+09/02/2023	02:39:35	cb4ed19d-6e45-489e-8170-b28217051acc	ReferenceError : token is not defined
+09/02/2023	13:21:97	e39f7c77-db8d-45d3-bc90-7feb483e1ef1	Error : Not allowed by CORS
+09/02/2023	13:22:58	c0da4264-fd22-4797-aa91-96828974603f	Error : Not allowed by CORS
+11/02/2023	15:48:48	9fba127a-f1c4-4729-9805-1307e750aa54	SyntaxError : Unexpected token / in JSON at position 23
+11/02/2023	17:24:52	8bfb9bd5-9bda-4045-9cd8-8177b186ec15	SyntaxError : Unexpected string in JSON at position 16
+11/02/2023	17:27:68	8d715bb1-cc5f-4c38-8f5a-0d3abc2366c2	SyntaxError : Unexpected token } in JSON at position 20
+05/03/2023	10:43:04	f4cbeb5c-8838-40b1-a6c6-13cf05c532d1	ReferenceError : Cannot access 'borrower' before initialization
+05/03/2023	14:07:65	3b516754-7685-4ce5-93a9-7953770b4563	SyntaxError : Unexpected token } in JSON at position 64
+05/03/2023	18:38:60	ddddc597-3d93-43c1-9323-fe0d5bf4a6f0	Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= t.borrower_id 
+                  WHERE b.user_id = 2
+                  GROU...' at line 3
+15/03/2023	14:23:79	7018cd28-cf4f-40b2-b0ca-09d3f02cbbff	Error : Unknown column 'is_payment' in 'where clause'
+15/03/2023	14:24:97	1c65f442-9320-41bd-a4aa-ee8402e477b3	Error : Unknown column 'is_payment' in 'where clause'
+15/03/2023	14:41:10	a5b6ff7c-3487-44ff-bc74-106264a11a0c	Error : Unknown column 'is_payment' in 'where clause'
+15/03/2023	14:42:21	80a2f225-10a5-4afb-a2b7-e9572cc85800	Error : Unknown column 'is_payment' in 'where clause'
+15/03/2023	14:43:22	039555a9-2708-4b12-b301-4074da70fa5a	Error : Unknown column 'is_payment' in 'where clause'
+10/10/2023	01:57:03	8fe4dc09-1ddf-4994-abfb-6620a133dae9	SyntaxError : Unexpected token e in JSON at position 1
+10/10/2023	02:29:39	64849949-a4b1-40ec-ba20-b8df007cd47f	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:91	bcf8b21c-e2bc-4c30-b40d-2bfbfce0d071	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:20	2116ddbd-a960-445a-b54e-589b81817620	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:17	bf6627c2-c33b-4d47-8eaa-4a294e6e3735	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:41	b4ee47c5-1597-4839-9631-54357395f77a	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:56	9b76ca97-f79d-4e50-b90e-6b7d0f425bd0	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:32:61	89c07ce3-3425-404a-a98d-2e1c54c4d54c	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:34:35	acadc7fd-32b5-4fbd-a597-e07e057418d2	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:34:40	1e53b5ff-ac1c-4db8-ba59-03410777fe19	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:38:12	f9ec7b4f-0e8b-4efa-9101-c184a7655660	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:38:16	8d5ff0b1-f104-4e48-949a-e7778ad5d7f1	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:38:20	5a6fb24b-fa7b-4708-80f7-ed6830cda61b	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	02:38:26	ff0076e8-5292-4d1a-b355-79f5d2ddea54	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:52:33	083bec07-db78-4b60-a079-986ad8b779fa	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:52:34	64ac6c4f-ade0-40c3-a3c8-632b2047c2c3	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:54:25	f1ec2029-9ef6-4f76-a469-609c3a424f5d	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:54:30	76eaf3e5-a529-4692-90fc-1a1815da070d	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:58:99	9106fe1c-5981-4deb-815c-7794eeaf2811	TypeError : Cannot read properties of undefined (reading 'split')
+10/10/2023	23:58:02	c756524a-ed27-4131-85ab-db72b9aaf5b3	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:00:94	30eef5c1-99d3-4323-8e35-95dba0df9de8	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:00:96	34c6d42f-859b-4f73-a38c-e95958fead83	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:00:75	fa73e6c9-9e07-4d7b-922c-66c682fae9bd	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:00:96	115731f5-f1c2-486d-8a18-293a42615bb8	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:02:75	25bee8a3-5358-476e-831c-3ce028a78b11	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:02:79	47dc7ec1-aae0-4ec8-b9da-e513fecdecdd	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:09:90	4fde0136-7c11-4012-b329-f1828a2d214b	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:09:45	f424e27c-66fd-4b88-aca3-39e32be5f923	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:16:77	cca7ae4c-1cea-419f-8b0b-e3d494bb989f	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:16:84	5cfeb8ee-26da-481f-b6b1-d2ea4698901b	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:22:71	e2777a50-586f-40e2-9e96-f85b2776cf85	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:22:74	5c808b99-4699-4a09-8fc9-e0984fd2c36b	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:22:76	6c79ba77-e062-49cc-ad9e-efa473a1860c	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:22:78	5e28ef01-37dd-4ed1-bc06-9f030a20eba5	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:23:13	b8900c73-c339-45f0-a81c-349f743118e1	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:23:07	fc2ec14f-ec67-4d1c-9633-c1d1c06e74bc	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:35:35	a85d5c18-4031-4412-ac3b-e51145e37193	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:35:37	f8582573-b44a-4b3b-8c47-c601fe57a339	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:38:87	0e54269c-8d49-4633-946a-2ac13289cd10	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	00:38:91	c07f721d-f345-4d7d-9046-e2583a8f231e	TypeError : Cannot read properties of undefined (reading 'split')
+11/10/2023	03:34:25	f5d94a10-616d-46a6-975f-fae75005c5af	Error : Unknown column 'b.borrower_id' in 'field list'
+11/10/2023	03:34:96	9105355f-ebe5-4388-8422-a8456c765b5e	Error : Unknown column 'b.borrower_id' in 'field list'
+11/10/2023	03:36:77	fdd47b1f-71e9-4db0-a82f-39d7cf156f20	TypeError : data.filter is not a function

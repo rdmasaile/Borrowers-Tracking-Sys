@@ -1,0 +1,58 @@
+.absolute{
+   position: absolute;
+}
+.relative{
+   position: relative;
+}
+.top-0{
+   top: 0px;
+}
+.top-1{
+   top: 1rem;
+}
+
+.top-30{
+   top: 30%;
+}
+.top-50{
+   top: 50%;
+}
+.top-70{
+   top: 70%;
+}
+.top-80{
+   top: 80%;
+}
+.left-3{
+   left: 3rem;
+}
+.left-40{
+   left: 40%;
+}
+.left-50{
+   left: 50%;
+}
+.left-80{
+   left: 80%;
+}
+.bottom-0{
+   bottom: 0%;
+}
+.bottom-10{
+   bottom: 10%;
+}
+.bottom-20{
+   bottom: 20%;
+}
+.bottom-40{
+   bottom: 40%;
+}
+.right-0{
+   right: 0px;
+}
+.right-1{
+   right: 1rem;
+}
+.right-20{
+   right: 20%;
+}

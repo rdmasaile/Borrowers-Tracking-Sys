@@ -1,0 +1,28 @@
+form{
+   background: linear-gradient(-45deg,#21202e14,#d8dadf59);
+}
+.form{
+   width: 100%;
+   display: flex;
+   margin: auto;
+}
+.form form{
+   height: 100%;
+}
+.form > *{
+   width: 100%;
+}
+.form-control,.form-control > *{
+   width: 100%;
+}
+
+@media (max-width:450px) {
+   .form .form-image{
+      display: none;
+   }
+}
+@media (max-width:620px) {
+   .form .form-image{
+      display: none;
+   }
+}

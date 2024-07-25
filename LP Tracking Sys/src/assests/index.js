@@ -1,0 +1,23 @@
+import logo from './images/Lp.jpg';
+import menu from './images/menu.png';
+import close from './images/close.png';
+import Rd from './images/Rd.png';
+import Rd1 from './images/Rd1.jpg';
+import email from './images/email.png';
+import facebook from './images/facebook.png';
+import whatsapp from './images/whatsapp.png';
+import search from './images/search.png';
+import flower from './images/flower.jpg';
+import category from './images/category.png';
+import home from './images/home.png';
+import dashboard from './images/dashboard.png';
+import transaction from './images/transaction.png';
+import edit from './images/edit.png';
+import trash from './images/trash.png';
+import plus from './images/plus.png';
+import dleft from './images/dleft.png';
+import dright from './images/dright.png';
+import people from './images/people.png';
+import add_user from './images/add_user.png';
+
+export {add_user,logo,menu,close,Rd,Rd1,email,facebook,whatsapp,search,flower,category,home,dashboard,transaction,edit,trash,plus,dleft,dright,people};

@@ -1,0 +1,11 @@
+.dropdown{
+   position: relative;
+   z-index: 5;
+}
+.dropdown .menu{
+   position:fixed;
+   z-index: 5;
+}
+.dropdown .menu > *{
+   z-index: 5;
+}

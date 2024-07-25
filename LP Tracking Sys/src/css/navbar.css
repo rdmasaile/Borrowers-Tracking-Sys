@@ -1,0 +1,38 @@
+.navbar{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   min-height: 3rem;
+   padding: 1rem;
+   position: fixed;
+   background: #000;
+   z-index: 5;
+}
+.navbar img{
+   width: 2rem;
+   height: 2rem;
+   margin-right: .2rem;
+}
+.navbar .logo img{
+   border-radius: 50%;
+}
+.navbar figcaption{
+   font-size: larger;
+   font-weight: bold;
+}
+.navbar ul{
+   justify-content: space-evenly;
+}
+@media (max-width:450px) {
+
+   /* .navbar::before{
+      content: '';
+      width: 100%;
+      height: 10rem;
+      left: 0px;
+      position: absolute;
+      background-color: rgba(69, 71, 70, 0.596);
+      border-radius: 0px 0px 25% 25%;
+      margin-bottom: auto;
+   } */
+}

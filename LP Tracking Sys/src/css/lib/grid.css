@@ -1,0 +1,12 @@
+.grid-col-1{
+   grid-template-columns: 1fr;
+}
+.grid-col-2{
+   grid-template-columns: 200px 2fr;
+}
+.grid-col-layout-1{
+   grid-template-columns: 1fr 9fr;
+}
+.grid-col-layout-2{
+   grid-template-columns: 50px 2fr;
+}

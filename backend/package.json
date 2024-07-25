@@ -1,0 +1,30 @@
+{
+  "name": "Expense Tracker",
+  "version": "1.0.0",
+  "description": "Tracks Expenses",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reatile",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookieparser": "^0.1.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "fs-extra": "^10.1.0",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0"
+  }
+}

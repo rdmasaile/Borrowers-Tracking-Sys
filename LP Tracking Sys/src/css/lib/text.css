@@ -1,0 +1,22 @@
+.text-1{
+   font-size: 1.8rem;
+}
+.text-2{
+   font-size: 2rem;
+}
+.text-3{
+   font-size: 3rem;
+}
+.text-bold{
+   font-weight: bold;
+}
+
+.text-align-center{
+   text-align: center;
+}
+.text-justify-center{
+   text-align: justify;
+}
+.text-blue{
+   color: blue;
+}
